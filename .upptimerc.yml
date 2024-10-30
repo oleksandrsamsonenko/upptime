@@ -6,8 +6,11 @@ sites:
   - name: Google
     url: https://www.google.com
  
-  - name: Test-Response
+  - name: WhApp
     url: https://abyssnavigation.com/response.html
+    
+  - name: Neur
+    url: https://lamexcel.com/response.html
  
   - name: IPv6 test
     url: forwardemail.net
