@@ -3,20 +3,15 @@ owner: oleksandrsamsonenko # Your GitHub organization or username, where this re
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: WhAppRu
+    url: https://rdxmakina.com/response.html
  
   - name: WhApp
     url: https://abyssnavigation.com/response.html
     
   - name: Neur
     url: https://lamexcel.com/response.html
- 
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
