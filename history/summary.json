@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/djgtdensloaa.com.ico",
     "slug": "wh-app-ru",
     "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
-    "time": 614,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
-    "dailyMinutesDown": {
-      "2024-10-30": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 615,
+    "timeDay": 615,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WA-GRu",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aeonglobalindia.com.ico",
     "slug": "wa-g-ru",
     "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
-    "dailyMinutesDown": {
-      "2024-10-30": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 593,
+    "timeDay": 593,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WhApp",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mllecerise.com.ico",
     "slug": "wh-app",
     "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.07%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2024-10-30": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 642,
+    "timeDay": 642,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Neur",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benefitspanama.com.ico",
     "slug": "neur",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
-    "time": 618,
-    "timeDay": 618,
-    "timeWeek": 618,
-    "timeMonth": 618,
-    "timeYear": 618,
-    "dailyMinutesDown": {
-      "2024-10-30": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 590,
+    "timeDay": 590,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
+    "dailyMinutesDown": {}
   }
 ]
