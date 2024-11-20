@@ -4,9 +4,9 @@
     "url": "https://djgtdensloaa.com/response.html",
     "icon": "https://icons.duckduckgo.com/ip3/djgtdensloaa.com.ico",
     "slug": "wh-app-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 701,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "WA-GRu",
