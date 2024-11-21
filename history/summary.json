@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/djgtdensloaa.com.ico",
     "slug": "wh-app-ru",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.84%",
+    "uptimeDay": "31.78%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 654,
-    "timeDay": 629,
-    "timeWeek": 701,
+    "timeDay": 0,
+    "timeWeek": 664,
     "timeMonth": 654,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-21": 71,
+      "2024-11-20": 911
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 617,
-    "timeWeek": 645,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 646,
+    "timeDay": 875,
+    "timeWeek": 653,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 623,
-    "timeWeek": 655,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "time": 645,
+    "timeDay": 832,
+    "timeWeek": 656,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 627,
-    "timeWeek": 676,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "time": 645,
+    "timeDay": 825,
+    "timeWeek": 673,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   }
 ]
