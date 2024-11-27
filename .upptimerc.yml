@@ -15,6 +15,11 @@ sites:
   - name: Neur
     url: https://benefitspanama.com/response.html
 
+  - name: NeuralinkAI_Graph_ENG
+    url: https://wherestechsupport.com/response.html
+
+  - name: WhatsApp_Graph_RU
+    url: https://ngovietco.com/response.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
